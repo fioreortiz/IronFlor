@@ -1,2 +1,2 @@
 I enrolled Ironhacks Data Analytics bootcamp because I love data>> Jomana.txt
-Echo I enrolled Ironhacks Data Analytics bootcamp because I love data
+Echo I enrolled Ironhacks Data Analytics bootcamp because I love data $$$
